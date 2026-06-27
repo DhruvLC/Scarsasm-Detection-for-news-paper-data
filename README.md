@@ -59,7 +59,7 @@ Sarcasm-Detection/
 │── vectorizer.pkl
 │── README.md
 ▶️ Installation
-git clone https://github.com/your-username/Sarcasm-Detection.git
+git clone https://github.com/DhruvLC/Scarsasm-Detection-for-news-paper-data.git
 
 cd Sarcasm-Detection
 
